@@ -20,6 +20,9 @@ body{
     margin:auto;
     color: grey;
 }
+#login-menu>a:hover{
+  color: orange;
+}
 
 a{
     text-decoration: none;
@@ -404,6 +407,9 @@ nav{
     margin-top: 42px;
     margin-left: -120px;
   }
+  .programme2>a:hover{
+    font-weight: bold;
+  }
   .programme2>a{
     color: blue;
   }
@@ -420,6 +426,9 @@ nav{
     color: black;
     margin-top: 42px;
     margin-left: -100px;
+  }
+  .programme4>a:hover{
+    font-weight: bold;
   }
   .programme4>a{
     color: blue;
@@ -439,6 +448,9 @@ nav{
     margin-top: 42px;
     margin-left: -110px;
   }
+  .programme6>a:hover{
+    font-weight: bold;
+  }
   .programme6>a{
     color:blue;
   }
@@ -453,6 +465,9 @@ nav{
     grid-row: 2;
     margin-top: 42px;
     margin-left: -110px;
+  }
+  .programme8>a:hover{
+    font-weight: bold;
   }
   .programme8>a{
     color:blue;
