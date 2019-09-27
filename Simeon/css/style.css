@@ -330,6 +330,7 @@ nav{
     left: auto;
     right: 30px;
     top: 200px;
+    z-index: 200;
   }
 
   #share-facebook{
@@ -337,6 +338,7 @@ nav{
     left: auto;
     right: 30px;
     top: 250px;
+    z-index: 200;
   }
 
   #share-insta{
@@ -344,6 +346,7 @@ nav{
     left: auto;
     right: 30px;
     top: 300px;
+    z-index: 200;
   }
 
   #share-youtube{
@@ -351,6 +354,7 @@ nav{
     left: auto;
     right: 30px;
     top: 350px;
+    z-index: 200;
   }
 
   .content4{
