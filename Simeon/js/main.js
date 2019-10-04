@@ -7,11 +7,3 @@ function slide(index){
     }
 };
 
-function categorySwap(catNumber){
-    var categories = [document.getElementById('plp-filter-category-1'), document.getElementById('plp-filter-category-2'),
-    document.getElementById('plp-filter-category-3'), document.getElementById('plp-filter-category-4'), document.getElementById('plp-filter-category-5')];
-
-    for(var i=0; i < categories.length; i++){
-        categories[i].classList.remove('plp-filter-marked');
-    }
-}
